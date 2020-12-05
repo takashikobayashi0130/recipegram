@@ -1,25 +1,18 @@
-# README
+# Name
+ 
+recipegram
+ 
+# overview
+ 
+インスタグラムのような、ログイン付き写真投稿アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# recipegram2
+# Features
+ 
+自分の作った、料理写真とレシピを投稿でき、共有できる。
+ログイン機能もあり、誰が投稿したかを確認できる。
+ 
+# Requirement
+ 
+ruby 2.6.3
+rails 6.0.3.4
+ 
