@@ -17,3 +17,7 @@ macOS 11.0.1
 ruby 2.6.3
 rails 6.0.3.4
 
+# Note
+デザインbootstrap使用
+
+
